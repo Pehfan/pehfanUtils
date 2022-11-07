@@ -1,6 +1,6 @@
 {
   "name": "pehfan-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just for pehfan test",
   "main": "dist/web.js",
   "scripts": {
