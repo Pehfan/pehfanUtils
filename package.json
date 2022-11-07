@@ -1,0 +1,31 @@
+{
+  "name": "pehfan-utils",
+  "version": "1.0.0",
+  "description": "just for pehfan test",
+  "main": "dist/web.js",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pehfan/pehfanUtils.git"
+  },
+  "keywords": [
+    "pehfan",
+    "pehfan-utils",
+    "test"
+  ],
+  "author": "pehfan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pehfan/pehfanUtils/issues"
+  },
+  "homepage": "https://github.com/Pehfan/pehfanUtils#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "rollup": "^3.2.5"
+  }
+}
