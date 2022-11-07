@@ -1,3 +1,3 @@
-export const unique = function (arr) {
+export  function unique (arr) {
   return [...new Set(arr)]
 }

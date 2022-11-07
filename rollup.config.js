@@ -1,8 +1,5 @@
 export default [{
 	input: "src/index.js",
-	output: { file: "dist/web.js", format: "cjs" }
-}, {
-	input: "src/index.js",
 	output: { file: "dist/web.esm.js", format: "esm" }
 }, {
 	input: "src/index.js",
