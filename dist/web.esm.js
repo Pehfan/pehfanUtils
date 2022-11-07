@@ -1,4 +1,6 @@
-import { unique } from 'src/unique/index';
+const unique = function (arr) {
+  return [...new Set(arr)]
+};
 
 var index = {
   unique

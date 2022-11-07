@@ -1,4 +1,4 @@
-import { unique } from 'src/unique/index'
+import { unique } from './unique/index'
 
 export default {
   unique

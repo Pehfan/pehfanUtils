@@ -1,9 +1,11 @@
 'use strict';
 
-var index$1 = require('src/unique/index');
+const unique = function (arr) {
+  return [...new Set(arr)]
+};
 
 var index = {
-  unique: index$1.unique
+  unique
 };
 
 module.exports = index;
