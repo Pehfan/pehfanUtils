@@ -1,5 +1,5 @@
 import { unique } from './unique/index'
 
-export default {
+export {
   unique
 }
